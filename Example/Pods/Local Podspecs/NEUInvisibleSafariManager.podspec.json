@@ -1,0 +1,22 @@
+{
+  "name": "NEUInvisibleSafariManager",
+  "version": "0.1.0",
+  "summary": "A short description of NEUInvisibleSafariManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/NEUInvisibleSafariManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nikita Pankiv": "nik.pankiv@vedidev.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/NEUInvisibleSafariManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NEUInvisibleSafariManager/Classes/**/*"
+}

@@ -1,0 +1,14 @@
+PODS:
+  - NEUInvisibleSafariManager (0.1.0)
+
+DEPENDENCIES:
+  - NEUInvisibleSafariManager (from `../`)
+
+EXTERNAL SOURCES:
+  NEUInvisibleSafariManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NEUInvisibleSafariManager: 8341086def967dcc17b35ff1a2bda445c259bca0
+
+COCOAPODS: 0.39.0

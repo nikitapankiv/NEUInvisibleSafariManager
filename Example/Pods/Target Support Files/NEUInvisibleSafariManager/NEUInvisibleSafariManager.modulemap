@@ -1,0 +1,6 @@
+framework module NEUInvisibleSafariManager {
+  umbrella header "NEUInvisibleSafariManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

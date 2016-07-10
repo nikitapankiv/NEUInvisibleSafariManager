@@ -22,7 +22,7 @@ pod "NEUInvisibleSafariManager"
 
 ## Author
 
-Nikita Pankiv, nik.pankiv@vedidev.com
+Nikita Pankiv, nik.pankiv@gmail.com
 
 ## License
 
