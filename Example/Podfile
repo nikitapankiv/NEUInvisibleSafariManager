@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NEUInvisibleSafariManager_Tests' do
+  pod 'NEUInvisibleSafariManager', :path => '../'
+  
+  
+end
